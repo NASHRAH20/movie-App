@@ -1,0 +1,43 @@
+body{
+  margin: 0;
+  background-color:rgba(248, 220, 186, 0.733) !important;
+}
+.NB{
+  border-bottom:4px solid #fff ;
+  background-color: rgb(14, 132, 51);
+
+}
+.header{
+  font-size:45px;
+  font-family:fantasy;
+  gap: 30px;
+}
+.card-img{
+  height: 400px;
+}
+.search{
+  padding: 4% 6%;
+  height: 100px !important;
+  width: 95% !important;
+  
+}
+.painting{
+  margin:10% auto;
+  
+}
+.copyright{
+  color: #fff;
+  
+}
+.owner{
+  color: #fff;
+}
+.header{
+  margin-left: 42%;
+}
+@media only screen and (max-width:600px) {
+  .painting{
+    margin-left:38px;
+  }
+}
+
